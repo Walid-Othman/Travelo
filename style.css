@@ -255,7 +255,9 @@ span {
   display: flex;
 
 }
-
+.carousel img {
+      object-fit: cover;
+} 
 .carousel h5 {
   margin-top: 200px;
   font-family: "Caveat", cursive;
