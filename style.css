@@ -1443,9 +1443,6 @@ span {
     box-sizing: border-box;
   }
 
-  body {
-    background-color: red;
-  }
 
   .section-one img {
     height: 100vh;
