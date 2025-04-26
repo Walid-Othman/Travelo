@@ -9,6 +9,9 @@
 html{
   scroll-behavior: smooth;
 }
+Img{
+      object-fit: cover;
+} 
 
 h1,
 h2,
