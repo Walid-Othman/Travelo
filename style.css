@@ -856,7 +856,7 @@ span {
 }
 
 #contact form .new-hover-icon::before {
-
+ border: none;
   background-color: red;
 
 
