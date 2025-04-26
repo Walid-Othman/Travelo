@@ -1035,7 +1035,7 @@ span {
 
   /* section one  start */
   .section-one img {
-    height: 100vh;
+    height:auto ;
   }
 
 
