@@ -2294,7 +2294,9 @@ span {
     padding-top: 50px;
     padding-bottom: 20px;
     display: flex;
-margin-right: 10px;
+margin-right: 12px;
+      margin-bottom: 5px;
+    gap: 5px;
 }
 
 .section-seven .cards {
