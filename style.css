@@ -1049,6 +1049,7 @@ span {
 
   .section-one img {
     height: 50vh !important;
+    margin-top:60px;
   }
 
   .carousel-indicators {
