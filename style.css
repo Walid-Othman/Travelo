@@ -245,6 +245,11 @@ span {
 
 /* start section one */
 
+.carousel-item.active {
+    display: block;
+    padding-top: 50px;
+}
+
 .section-one .btn {
   background-color: #0ae9c3;
   border: none;
@@ -1053,7 +1058,7 @@ span {
 
   .main {
 
-    margin-top: -390px;
+            margin-top: -319px;
   }
 
 
@@ -1473,12 +1478,12 @@ span {
 
   .carousel-control-next-icon {
     background-color: gray;
-    margin-top: -331px;
+    margin-top: -220px;
   }
 
   .carousel-control-prev-icon {
     background-color: gray;
-    margin-top: -331px;
+    margin-top: -220px;
   }
 
   .section-one img {
@@ -1486,7 +1491,7 @@ span {
   }
 
   .carousel-indicators {
-    margin-bottom: 400px;
+    margin-bottom: 335px;
   }
 
   .main {
@@ -1717,6 +1722,7 @@ span {
     height: 70px;
     height: 178px;
     padding-left: 30px;
+            margin-top: -319px;
   }
 
   .main p {
