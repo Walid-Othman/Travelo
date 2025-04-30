@@ -244,11 +244,10 @@ span {
 /* end nev bar */
 
 /* start section one */
-
-.carousel-item.active {
-    display: block;
-    padding-top: 50px;
-}
+    .section-one img {
+        /* padding-top: 50px; */
+        margin-top: 60px;
+    }
 
 .section-one .btn {
   background-color: #0ae9c3;
@@ -1040,12 +1039,12 @@ span {
 
   .carousel-control-next-icon {
     background-color: gray;
-    margin-top: -331px;
+    margin-top: -220px;
   }
 
   .carousel-control-prev-icon {
     background-color: gray;
-    margin-top: -331px;
+    margin-top: -220px;
   }
 
   .section-one img {
@@ -1053,7 +1052,7 @@ span {
   }
 
   .carousel-indicators {
-    margin-bottom: 400px;
+    margin-bottom: 335px;
   }
 
   .main {
@@ -1474,6 +1473,7 @@ span {
 
   /* .section-one img {
     height: 100vh;
+  margin-top:50px;
   } */
 
   .carousel-control-next-icon {
